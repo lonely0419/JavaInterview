@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="de4b6b33-5c62-42e5-9a8a-76eff9e0e169" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nojekyll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomePage.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_coverpage.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/java/ThreadPoolExecutorDemo/out/production/ThreadPoolExecutorDemo/META-INF/ThreadPoolExecutorDemo.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/java/ThreadPoolExecutorDemo/out/production/ThreadPoolExecutorDemo/callable/CallableDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/java/ThreadPoolExecutorDemo/out/production/ThreadPoolExecutorDemo/callable/MyCallable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/java/ThreadPoolExecutorDemo/out/production/ThreadPoolExecutorDemo/common/ThreadPoolConstants.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/java/ThreadPoolExecutorDemo/out/production/ThreadPoolExecutorDemo/scheduledThreadPoolExecutor/ScheduledThreadPoolExecutorDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/java/ThreadPoolExecutorDemo/out/production/ThreadPoolExecutorDemo/scheduledThreadPoolExecutor/Task.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/java/ThreadPoolExecutorDemo/out/production/ThreadPoolExecutorDemo/threadPoolExecutor/MyRunnable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/java/ThreadPoolExecutorDemo/out/production/ThreadPoolExecutorDemo/threadPoolExecutor/ThreadPoolExecutorDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/java/ThreadPoolExecutorDemo/src/callable/CallableDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/java/ThreadPoolExecutorDemo/src/callable/MyCallable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/java/ThreadPoolExecutorDemo/src/common/ThreadPoolConstants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/java/ThreadPoolExecutorDemo/src/threadPoolExecutor/MyRunnable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/java/ThreadPoolExecutorDemo/src/threadPoolExecutor/ThreadPoolExecutorDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/dataStructures-algorithms/Backtracking-NQueens.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/dataStructures-algorithms/data-structure/bloom-filter.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/dataStructures-algorithms/公司真题.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/dataStructures-algorithms/几道常见的子符串算法题.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/dataStructures-algorithms/几道常见的链表算法题.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/dataStructures-algorithms/剑指offer部分编程题.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/dataStructures-algorithms/数据结构.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/dataStructures-algorithms/算法学习资源推荐.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/database/MySQL Index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/database/MySQL.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/database/MySQL高性能优化规范建议.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/database/Redis/Redis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/database/Redis/Redis持久化.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/database/Redis/Redlock分布式锁.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/database/Redis/redis集群以及应用场景.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/database/Redis/如何做可靠的分布式锁，Redlock真的可行么.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/database/一千行MySQL命令.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/database/一条sql语句在mysql中如何执行的.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/database/事务隔离级别(图文详解).md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/database/数据库索引.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/database/数据库连接池.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/database/阿里巴巴开发手册数据库部分的一些最佳实践.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/essential-content-for-interview/BATJrealInterviewExperience/2019alipay-pinduoduo-toutiao.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/essential-content-for-interview/BATJrealInterviewExperience/2020-zijietiaodong.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/essential-content-for-interview/BATJrealInterviewExperience/5面阿里,终获offer.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/essential-content-for-interview/BATJrealInterviewExperience/bingo-interview.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/essential-content-for-interview/BATJrealInterviewExperience/蚂蚁金服实习生面经总结(已拿口头offer).md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/essential-content-for-interview/PreparingForInterview/JavaInterviewLibrary.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/essential-content-for-interview/PreparingForInterview/JavaProgrammerNeedKnow.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/essential-content-for-interview/PreparingForInterview/interviewPrepare.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/essential-content-for-interview/PreparingForInterview/应届生面试最爱问的几道Java基础问题.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/essential-content-for-interview/PreparingForInterview/程序员的简历之道.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/essential-content-for-interview/PreparingForInterview/美团面试常见问题总结.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/essential-content-for-interview/PreparingForInterview/面试官-你有什么问题要问我.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/essential-content-for-interview/real-interview-experience-analysis/alibaba-1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/essential-content-for-interview/手把手教你用Markdown写一份高质量的简历.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/essential-content-for-interview/简历模板.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/essential-content-for-interview/面试必备之乐观锁与悲观锁.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/github-trending/2018-12.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/github-trending/2019-1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/github-trending/2019-12.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/github-trending/2019-2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/github-trending/2019-3.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/github-trending/2019-4.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/github-trending/2019-5.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/github-trending/2019-6.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/github-trending/JavaGithubTrending.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/java/BIO-NIO-AIO.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/java/J2EE基础知识.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/java/JAD反编译tricks.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/java/Java IO与NIO.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/java/Java基础知识.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/java/Java疑难点.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/java/Java程序设计题.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/java/Java编程规范.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/java/Multithread/AQS.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/java/Multithread/Atomic.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/java/Multithread/JavaConcurrencyAdvancedCommonInterviewQuestions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/java/Multithread/JavaConcurrencyBasicsCommonInterviewQuestionsSummary.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/java/Multithread/ThreadLocal.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/java/Multithread/java线程池学习总结.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/java/Multithread/synchronized.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/java/Multithread/并发容器总结.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/java/Multithread/并发编程基础知识.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/java/What's New in JDK8/Java8Tutorial.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/java/What's New in JDK8/Java8foreach指南.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/java/What's New in JDK8/Java8教程推荐.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/java/basic/Arrays,CollectionsCommonMethods.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/java/basic/final,static,this,super.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/java/basic/reflection.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/java/basic/用好Java中的枚举真的没有那么简单.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/java/collection/ArrayList-Grow.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/java/collection/ArrayList.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/java/collection/HashMap.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/java/collection/Java集合框架常见面试题.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/java/collection/LinkedList.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/java/jvm/GC调优参数.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/java/jvm/JDK监控和故障处理工具总结.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/java/jvm/JVM垃圾回收.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/java/jvm/Java内存区域.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/java/jvm/[加餐]大白话带你认识JVM.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/java/jvm/jvm 知识点汇总.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/java/jvm/最重要的JVM参数指南.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/java/jvm/类加载器.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/java/jvm/类加载过程.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/java/jvm/类文件结构.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/java/多线程系列.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/javaguide面试突击版.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/network/HTTPS中的TLS.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/network/干货：计算机网络知识总结.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/operating-system/Shell.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/operating-system/后端程序员必备的Linux基础知识.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/questions/java-big-data.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/questions/java-learning-path-and-methods.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/questions/java-learning-website-blog.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/questions/java-training-4-month.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/system-design/authority-certification/JWT-advantages-and-disadvantages.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/system-design/authority-certification/basis-of-authority-certification.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/system-design/authority-certification/sso.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/system-design/data-communication/Kafka入门看这一篇就够了.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/system-design/data-communication/RocketMQ-Questions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/system-design/data-communication/RocketMQ.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/system-design/data-communication/dubbo.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/system-design/data-communication/kafka-inverview.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/system-design/data-communication/message-queue.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/system-design/data-communication/rabbitmq.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/system-design/data-communication/why-use-rpc.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/system-design/framework/ZooKeeper-plus.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/system-design/framework/ZooKeeper.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/system-design/framework/ZooKeeper数据模型和常见命令.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/system-design/framework/mybatis/mybatis-interview.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/system-design/framework/spring/Spring-Design-Patterns.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/system-design/framework/spring/Spring.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/system-design/framework/spring/SpringBean.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/system-design/framework/spring/SpringInterviewQuestions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/system-design/framework/spring/SpringMVC-Principle.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/system-design/micro-service/API网关.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/system-design/micro-service/api-gateway-intro.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/system-design/micro-service/limit-request.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/system-design/micro-service/spring-cloud.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/system-design/micro-service/分布式id生成方案总结.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/system-design/website-architecture/8 张图读懂大型网站技术架构.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/system-design/website-architecture/关于大型网站系统架构你不得不懂的10个问题.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/system-design/website-architecture/分布式.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/system-design/website-architecture/如何设计一个高可用系统？要考虑哪些地方？.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/system-design/设计模式.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tools/Docker-Image.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tools/Docker.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tools/Git.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tools/github/github-star-ranking.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tools/阿里云服务器使用经验.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/update-history.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/公众号历史文章汇总.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/pictures/database/B+树.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/pictures/database/B+树二级索引(辅助索引).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/pictures/database/B+树索引.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/pictures/database/B+树覆盖索引.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/pictures/database/Mysql索引文件截图.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/pictures/database/联合索引(多列索引).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/pictures/database/联合索引之查询条件生效.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/pictures/kafka/Broker和集群.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/pictures/kafka/Partition与消费模型.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/pictures/kafka/kafka存在文件系统上.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/pictures/kafka/segment是kafka文件存储的最小单位.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/pictures/kafka/主题与分区.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/pictures/kafka/前言.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/pictures/kafka/发送消息.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/pictures/kafka/启动服务.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/pictures/kafka/消费者设计概要1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/pictures/kafka/消费者设计概要2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/pictures/kafka/消费者设计概要3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/pictures/kafka/消费者设计概要4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/pictures/kafka/消费者设计概要5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/pictures/kafka/生产者和消费者.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/pictures/kafka/生产者设计概要.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/pictures/rostyslav-savchyn-5joK905gcGc-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/sponsor/WechatIMG143.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/submission.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sw.js" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>RunDashboard</find>
+      <find>MyCallable</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\M2\rep" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../Maven/apache-maven-3.5.3" />
+        <option name="userSettingsFile" value="D:\M2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Zh6tAgFG7vnv7008NsAsRKF4Px" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jxr</selection>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de4b6b33-5c62-42e5-9a8a-76eff9e0e169" name="Default" comment="" />
+      <created>1585190673925</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585190673925</updated>
+      <workItem from="1585190676740" duration="1462000" />
+      <workItem from="1585208191940" duration="1687000" />
+      <workItem from="1585272503600" duration="3000000" />
+      <workItem from="1585279292172" duration="35000" />
+      <workItem from="1585708698985" duration="1209000" />
+      <workItem from="1585711939283" duration="3450000" />
+      <workItem from="1585809784867" duration="5386000" />
+      <workItem from="1585876098655" duration="1270000" />
+      <workItem from="1586304922507" duration="1358000" />
+      <workItem from="1586333719062" duration="656000" />
+      <workItem from="1587543204172" duration="1363000" />
+      <workItem from="1587545145779" duration="1319000" />
+      <workItem from="1587862590323" duration="844000" />
+      <workItem from="1609140870556" duration="7643000" />
+      <workItem from="1609157579721" duration="366000" />
+      <workItem from="1609158365402" duration="606000" />
+      <workItem from="1609159031093" duration="7000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>JavaGuide</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
